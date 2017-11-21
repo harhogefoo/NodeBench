@@ -1,0 +1,24 @@
+```
+test1
+Raw:
+ > 0.21105951878429718
+ > 0.18611576400521124
+ > 0.18925056775170326
+ > 0.1883593897155773
+Average (mean) 0.19369631006419724
+
+test2
+Raw:
+ > 0.18399264029438822
+ > 0.1927153594141453
+ > 0.18433179723502305
+ > 0.19054878048780488
+Average (mean) 0.18789714435784036
+
+Winner: test1
+Compared with next highest (test2), it's:
+2.99% faster
+1.03 times as fast
+0.01 order(s) of magnitude faster
+A LITTLE FASTER
+```

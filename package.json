@@ -1,0 +1,9 @@
+{
+  "name": "bench",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "bench": "^0.3.6"
+  }
+}
