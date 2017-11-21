@@ -10,7 +10,7 @@ Node.jsで処理速度をベンチマークしたい
 $ yarn
 ```
 
-#Exec
+# Exec
 ```bash
 $ node bench
 ```
